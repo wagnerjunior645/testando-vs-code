@@ -10,3 +10,9 @@ app.get('/',(req,res)=>{
 app.listen(80,()=>{
     console.log('Servidor Rodando');
 });
+
+
+
+funcao = function (req,res){
+    console.log('dddd');
+};
