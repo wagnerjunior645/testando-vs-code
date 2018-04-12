@@ -7,3 +7,7 @@
 
 Olá
 
+function (req,res) {
+    res.end("xD");
+}
+
